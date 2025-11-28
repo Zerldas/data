@@ -1,0 +1,7 @@
+# Cac thu muc chua data hoac ket qua tam thoi
+processed/
+results/
+working/
+
+# Bo qua cac file log (neu co)
+*.log
